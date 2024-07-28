@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealTimeChat", "RealTimeChat\RealTimeChat.csproj", "{8713326B-1CAE-4949-A233-9927C0330E61}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0DF4D7C4-AD62-4D6B-9312-F2935C336A52}"
+	ProjectSection(SolutionItems) = preProject
+		docker-compose.yml = docker-compose.yml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8713326B-1CAE-4949-A233-9927C0330E61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8713326B-1CAE-4949-A233-9927C0330E61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8713326B-1CAE-4949-A233-9927C0330E61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8713326B-1CAE-4949-A233-9927C0330E61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
